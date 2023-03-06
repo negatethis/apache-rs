@@ -13,5 +13,6 @@ repository = "https://github.com/studersi/apache-rs"
 
 [build-dependencies]
 bindgen = "0.59.2"
+pkg-config = "0.3.26"
 
 [dependencies]
